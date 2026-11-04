@@ -1,0 +1,49 @@
+{
+  "schema_version": "pss-bob-data-1.0",
+  "jenis": "Pemetaan cadangan; bukan format CSV/sandaran asli aplikasi",
+  "tab": [
+    {
+      "nama": "Ringkasan",
+      "data": "tab_1_ringkasan",
+      "arahan": "Paparkan nilai null sebagai Belum disahkan, bukan 0. Tempoh 2026. Jangan kira program sejarah ke tahun semasa."
+    },
+    {
+      "nama": "KPI Pegawai",
+      "data": "tab_2_kpi_pegawai",
+      "arahan": "Paparkan sasaran institusi 2026 (5) dan snapshot 2/5 (40%) dengan tarikh versi. Sasaran individu dan pencapaian terkini kekal belum disahkan."
+    },
+    {
+      "nama": "Komuniti Alumni",
+      "data": "tab_3_komuniti_alumni",
+      "arahan": "Gunakan agregat calon unik dengan label sementara. Simpan profil_alumni_dalaman di akses pegawai sebenar; paparan Ahli hanya agregat."
+    },
+    {
+      "nama": "Aktiviti & Impak",
+      "data": "tab_4_aktiviti_dan_impak",
+      "arahan": "Padankan nama+tarikh+ID sebelum import; satu acara hanya satu rekod walaupun banyak laporan. bil_alumni_dilapor bukan alumni unik semua program."
+    },
+    {
+      "nama": "Kewangan",
+      "data": "tab_5_kewangan",
+      "arahan": "Amaun dibayar disahkan null. Simpan amaun_dilapor_rm sebagai medan berasingan, status belum disahkan. Penyata/baki tidak diisi dengan jumlah perbelanjaan sejarah."
+    },
+    {
+      "nama": "Hala Tuju",
+      "data": "tab_6_hala_tuju",
+      "arahan": "Semua cadangan kekal belum diluluskan/tiada bukti kelulusan. Nilai sasaran dalam blueprint bukan pencapaian."
+    },
+    {
+      "nama": "Penglibatan",
+      "data": "tab_7_penglibatan",
+      "arahan": "Sejarah minat sebagai senarai susulan berasingan; jangan masukkan sebagai penghantaran baharu atau pelantikan."
+    }
+  ],
+  "peraturan": [
+    "null = tidak diketahui; 0 hanya jika sumber menyatakan tiada / sifar.",
+    "ID rekod stabil; kemas kini ikut ID dan simpan data lama sebelum migrasi.",
+    "Semua sumber_ids mesti boleh dipadankan ke daftar sumber.",
+    "Jangan campur snapshot KPI 2/5 dengan bilangan program diekstrak.",
+    "Pakej belum diuji pada dashboard sebenar kerana kod/eksport asli tidak dibekalkan.",
+    "Dropdown peranan dalam pelayar sahaja bukan kawalan akses; jangan benam profil bernama dalam muatan Ahli umum."
+  ]
+}

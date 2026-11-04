@@ -1,0 +1,182 @@
+[
+  {
+    "id": "DQ01",
+    "tab": "Komuniti Alumni",
+    "isu": "547 baris data utama mempunyai pendua; 476 kumpulan diperoleh dengan menormalkan digit ID dalaman kepada 12 aksara. Ini padanan sementara, bukan pengesahan ahli.",
+    "sumber_ids": [
+      "LROOT",
+      "L001",
+      "L023"
+    ],
+    "tindakan": "Semak identiti asal dan sahkan keahlian. Jangan campur 547 + 314 atau paparkan 476 sebagai ahli rasmi.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ02",
+    "tab": "Komuniti Alumni",
+    "isu": "Nombor pengenalan dalam Excel kehilangan sifar di hadapan; panjang asal 8–12 digit. Tiada ID asal, nombor telefon, e-mel, akaun bank, alamat penuh atau gaji dieksport dalam pakej ini.",
+    "sumber_ids": [
+      "LROOT",
+      "L023"
+    ],
+    "tindakan": "Rujuk fail asal dengan akses pegawai untuk pengesahan. Jangan minta Bob meneka identiti/tahun tamat.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ03",
+    "tab": "Penglibatan",
+    "isu": "314 respons termasuk respons berulang; angka 171 dan 134 ialah bilangan respons YA, bukan orang unik.",
+    "sumber_ids": [
+      "L023"
+    ],
+    "tindakan": "Gunakan angka calon unik daripada respons terkini untuk senarai hubungi semula; jangan cipta pelantikan atau borang baharu.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ04",
+    "tab": "KPI Pegawai",
+    "isu": "Pelan Tindakan 2026 menyatakan sasaran 5 dan fail pemantauan menyatakan 2 (40%), tetapi tarikh kemajuan sebenar dan kelulusan individu tidak dinyatakan.",
+    "sumber_ids": [
+      "GD_1aO_DkP5CU0Ui3hQRN0SucZ2ml7bUPP0L",
+      "GD_1EjxN0IqRO6MFceecoQ41ps2d903fUjXe"
+    ],
+    "tindakan": "Kemas kini nota Tab 2: sasaran institusi 2026 ditemui; sahkan sasaran individu secara berasingan. Jangan guna 40% sebagai kemajuan hingga 4 November tanpa semakan.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ05",
+    "tab": "Aktiviti & Impak",
+    "isu": "Bicara/Sukan 2024: bilangan peserta, kluster dan senarai alumni berlainan antara slaid dan laporan.",
+    "sumber_ids": [
+      "L030",
+      "L043",
+      "L044"
+    ],
+    "tindakan": "Sahkan versi muktamad; nilai peserta gabungan dibiarkan null.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ06",
+    "tab": "Aktiviti & Impak",
+    "isu": "Road Tour 2024: konflik tarikh pada muka depan/tentatif dan bahagian tarikh.",
+    "sumber_ids": [
+      "L027",
+      "L028"
+    ],
+    "tindakan": "Sahkan 15–16 Mei 2024; simpan varian 14–16 Mei 2023 sebagai isu, jangan cipta acara kedua.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ07",
+    "tab": "Kewangan",
+    "isu": "Baki awal, penerimaan, baki akhir dan komitmen belum dibayar tidak boleh dipastikan daripada laporan program / permohonan.",
+    "sumber_ids": [
+      "L003",
+      "L027",
+      "L043"
+    ],
+    "tindakan": "Isi null; padankan resit, kelulusan, penyata dan pengesahan bendahari sebelum mengira baki.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ08",
+    "tab": "Hala Tuju",
+    "isu": "Blueprint mengandungi ayat resolusi, yuran dan KPI sasaran yang boleh disalah baca sebagai keputusan telah diluluskan.",
+    "sumber_ids": [
+      "L006",
+      "L009",
+      "L014"
+    ],
+    "tindakan": "Semua kekal cadangan; jangan set status diluluskan, akaun aktif, dana diterima atau kemajuan 100% tanpa minit.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ09",
+    "tab": "Komuniti Alumni",
+    "isu": "Senarai jawatankuasa mempunyai tempoh 2024–2026 dalam slaid dan 2024–2027 dalam dokumen.",
+    "sumber_ids": [
+      "L019",
+      "L025"
+    ],
+    "tindakan": "Sahkan tempoh serta lantikan terkini; jangan gunakan senarai sejarah sebagai pentadbir semasa.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ10",
+    "tab": "Aktiviti & Impak",
+    "isu": "Permohonan pra-konvo bertarikh sebelum acara tetapi menyatakan wang telah digunakan.",
+    "sumber_ids": [
+      "L003"
+    ],
+    "tindakan": "Sahkan tarikh surat, program, kelulusan dan bayaran.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ11",
+    "tab": "Ringkasan",
+    "isu": "Fail paparan dashboard dan format eksport/sandaran sebenar belum tersedia; hanya tujuh imej rujukan.",
+    "sumber_ids": [
+      "UI-01",
+      "UI-02",
+      "UI-03",
+      "UI-04",
+      "UI-05",
+      "UI-06",
+      "UI-07"
+    ],
+    "tindakan": "Bob perlu padankan skema aplikasi dahulu; jangan terus pulih atau tindih localStorage. Pakej ini bukan sandaran asli dashboard.",
+    "keutamaan": "Tinggi",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ12",
+    "tab": "Komuniti Alumni",
+    "isu": "Data asas dan minat bertarikh lama; tahun tamat, negeri dan bidang pekerjaan tidak cukup untuk menghasilkan carta sebenar.",
+    "sumber_ids": [
+      "LROOT",
+      "L023"
+    ],
+    "tindakan": "Padam carta demo dan paparkan Data belum tersedia; kemas kini profil sebelum analisis semasa.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ13",
+    "tab": "Aktiviti & Impak",
+    "isu": "Bengkel Pengurusan Alumni menyatakan 12 Mei 2026 (Rabu); tarikh itu jatuh pada Selasa.",
+    "sumber_ids": [
+      "L057",
+      "L058"
+    ],
+    "tindakan": "Sahkan tarikh / hari program dan laporan pelaksanaan.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  },
+  {
+    "id": "DQ14",
+    "tab": "Sumber",
+    "isu": "Sebahagian PDF berbentuk imbasan tanpa teks yang boleh diekstrak; dokumen dalam folder sudah sign tidak membuktikan tandatangan diperiksa.",
+    "sumber_ids": [
+      "L017",
+      "L048",
+      "L060",
+      "L063",
+      "L074",
+      "L075",
+      "L078"
+    ],
+    "tindakan": "Semak visual / OCR dokumen yang ditandakan dalam daftar sumber sebelum menaik taraf status kepada disahkan.",
+    "keutamaan": "Semakan",
+    "status": "Belum diselesaikan"
+  }
+]

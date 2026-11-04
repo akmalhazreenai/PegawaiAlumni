@@ -1,0 +1,78 @@
+{
+  "tarikh": "2026-11-04",
+  "semakan": [
+    {
+      "semakan": "Semua rujukan sumber wujud",
+      "lulus": true
+    },
+    {
+      "semakan": "ID sumber unik",
+      "lulus": true
+    },
+    {
+      "semakan": "ID program unik",
+      "lulus": true
+    },
+    {
+      "semakan": "476 profil dan 547 baris boleh dijejaki",
+      "lulus": true
+    },
+    {
+      "semakan": "314 respons berpaut pada profil",
+      "lulus": true
+    },
+    {
+      "semakan": "17 butiran kewangan berpaut pada program",
+      "lulus": true
+    },
+    {
+      "semakan": "Jumlah butiran sepadan dengan laporan PRG-2024-02",
+      "lulus": true
+    },
+    {
+      "semakan": "Jumlah butiran sepadan dengan laporan PRG-2024-04",
+      "lulus": true
+    },
+    {
+      "semakan": "Jumlah butiran sepadan dengan laporan PRG-2024-01",
+      "lulus": true
+    },
+    {
+      "semakan": "Anggaran pra-konvo berjumlah RM8160",
+      "lulus": true
+    },
+    {
+      "semakan": "KPI snapshot 2/5 dikira 40%",
+      "lulus": true
+    },
+    {
+      "semakan": "Pencapaian terkini dan baki dana tidak direka",
+      "lulus": true
+    },
+    {
+      "semakan": "Semua blueprint kekal cadangan",
+      "lulus": true
+    },
+    {
+      "semakan": "Tiada penghantaran baharu direka",
+      "lulus": true
+    },
+    {
+      "semakan": "Bicara 2024 yang bercanggah tidak diisi peserta secara arbitrari",
+      "lulus": true
+    },
+    {
+      "semakan": "Semua pautan penglibatan program sah",
+      "lulus": true
+    },
+    {
+      "semakan": "Tiada nilai nombor IC/telefon asal dieksport",
+      "lulus": true
+    },
+    {
+      "semakan": "Tiada alamat e-mel dalam nilai data",
+      "lulus": true
+    }
+  ],
+  "had": "Semakan struktur data, rujukan, pendua dan aritmetik. Bukan audit fakta, pengesahan tandatangan, atau ujian import dashboard sebenar."
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "fail": "00_MULA_DI_SINI.md",
+    "bytes": 5155,
+    "sha256": "917a39b7a3f1d5ab846a39f03c65d5be78ed7553c937b7599a6411d3bf41429f"
+  },
+  {
+    "fail": "DAFTAR_SUMBER.json",
+    "bytes": 74229,
+    "sha256": "cf39dbd90a6f416bb35c92f33c8c851d41db9ee1d6fb60176bf57a5ad9b9111f"
+  },
+  {
+    "fail": "DATA_UTAMA_BOB.json",
+    "bytes": 821395,
+    "sha256": "1fc766f9aad7001810c722e5410b9cf4453f8498b0d8c24bd766bfef0ef8bef8"
+  },
+  {
+    "fail": "ISU_DAN_PENGESAHAN.json",
+    "bytes": 6318,
+    "sha256": "9fa3233cca23a5aea5da7eefe3186536e63341e0060cebb646e7834ca5a843cc"
+  },
+  {
+    "fail": "KAMUS_DATA.md",
+    "bytes": 4944,
+    "sha256": "80f3f8f47046f474dccf52c7c5dc592fcabfd1b77318f63dd924e3cefd398398"
+  },
+  {
+    "fail": "PEMETAAN_7_TAB.json",
+    "bytes": 2289,
+    "sha256": "a856384ab890a7b2f6679fa6d690d084028bc50f943ff34276b0277bd4ece761"
+  },
+  {
+    "fail": "RINGKASAN_DAN_ISU.md",
+    "bytes": 6831,
+    "sha256": "126b3bdeaf0c07e148076c26c6118036b76aecea577b633c8226a272e301ad4a"
+  },
+  {
+    "fail": "RINGKASAN_PAKEJ.json",
+    "bytes": 275,
+    "sha256": "57407c99de311a5310d2f9dd2254a0a9bfeea85924b2730a8f68e0704098d585"
+  },
+  {
+    "fail": "SEMAKAN_PAKEJ.json",
+    "bytes": 1902,
+    "sha256": "ffb6a0b0979631340494c5c2dddd3761c83390051ee85f771a7863070f0af90f"
+  }
+]
